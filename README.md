@@ -8,14 +8,14 @@
 Organiza tu día, sube de nivel y no pierdas el ritmo. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/panel-seguimiento-release/releases/download/v0.5.0-ensayo/panel-debug-0.5.0.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.5.1-ensayo/panel-debug-0.5.1.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/panel-seguimiento-release/releases/download/v0.5.0-ensayo/Hito_0.5.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.5.1-ensayo/Hito_0.5.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/panel-seguimiento-release/releases">Todas las versiones</a>
+  <a href="https://github.com/jeanskull/Hito-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 0.5.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 0.5.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/hoy-medianoche.jpg" width="820" alt="Pantalla Hoy de Hito con el tema Medianoche">
@@ -69,14 +69,34 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 ¿Algo falló o tienes una idea? En **Preferencias → Acerca de y actualizaciones → Enviar comentarios** puedes escribirnos directo desde la app. Solo se envía tu mensaje y, si lo permites, la versión, la plataforma y el tamaño de pantalla; **nunca tus tareas ni proyectos**.
 
+## Novedades de la 0.5.1
+
+**Mejorado**
+
+- Las actualizaciones se descargan desde el nuevo repositorio público «Hito-release». La app sigue aceptando la dirección anterior, con las mismas comprobaciones de seguridad.
+- Créditos con el nombre del creador, JeanSkull. En Windows, «Aplicaciones instaladas» muestra a JeanSkull como editor.
+
 ## Novedades de la 0.5.0
 
-- **Nuevo nombre e ícono:** Hito, antes Panel de seguimiento.
-- **Tres temas completos** (Medianoche, Brasa y Papel) y opción de fondo.
-- **Enviar comentarios** desde la app, incluso sin conexión: se envían al volver la red.
-- La pantalla de carga de Android muestra Hito en lugar de un logo genérico.
-- En Windows, la actualización reemplaza la app anterior sin duplicarla y conserva tus datos.
-- Datos sincronizados mejor protegidos en la nube.
+**Agregado**
+
+- Nuevo nombre: **Hito** (antes Panel de seguimiento), con ícono nuevo de una bandera sobre una cima en Windows, Android (incluido el ícono temático de Android 13+ y el de las notificaciones) y la versión web.
+- Tres temas completos: Medianoche (nuevo predeterminado), Brasa y Papel, con su propio fondo, tarjetas, texto y color de acento. Se eligen en Preferencias → Vista y ritmo o con «Cambiar tema».
+- Opción de fondo: Ondas, Liso o Puntos.
+- Enviar comentarios desde Preferencias → Acerca de y actualizaciones: elige si algo falló, una idea u otra cosa y escribe tu mensaje. Puedes incluir datos técnicos (versión, plataforma y pantalla); nunca se envían tus tareas ni proyectos. Sin conexión, el comentario se guarda y se envía solo al volver la red.
+
+**Mejorado**
+
+- Si nunca cambiaste el color de acento, cada tema usa el suyo; un acento personalizado se conserva.
+- La barra del sistema en Android toma el color del tema.
+- El tema verde anterior se retira: si lo usabas, ahora verás Medianoche. Puedes cambiarlo en Preferencias.
+- Tus datos sincronizados en la nube quedan mejor protegidos: nadie puede listar ni borrar los grupos de sincronización; solo se accede a cada uno con su clave, como siempre.
+- En Windows, al actualizar, Hito reemplaza la instalación «Panel de seguimiento» y conserva tus datos: no quedan dos apps instaladas.
+- Los respaldos automáticos nuevos se guardan en la carpeta «Hito» (Documentos\Hito\Respaldos en Windows, Descargas/Hito en Android). Los anteriores se quedan donde estaban.
+
+**Corregido**
+
+- La pantalla de carga de Android mostraba el logo genérico de la herramienta de desarrollo sobre fondo blanco; ahora muestra el ícono de Hito sobre el fondo del tema.
 
 Desde la app puedes ver el historial completo en **Preferencias → Acerca de y actualizaciones → Novedades**.
 
