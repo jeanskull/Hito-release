@@ -8,14 +8,14 @@
 Organiza tu día, sube de nivel y no pierdas el ritmo. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.5.1-ensayo/panel-debug-0.5.1.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.5.3-ensayo/Hito_0.5.3_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.5.1-ensayo/Hito_0.5.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.5.3-ensayo/Hito_0.5.3_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Hito-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 0.5.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 0.5.3 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/hoy-medianoche.jpg" width="820" alt="Pantalla Hoy de Hito con el tema Medianoche">
@@ -69,34 +69,40 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 ¿Algo falló o tienes una idea? En **Preferencias → Acerca de y actualizaciones → Enviar comentarios** puedes escribirnos directo desde la app. Solo se envía tu mensaje y, si lo permites, la versión, la plataforma y el tamaño de pantalla; **nunca tus tareas ni proyectos**.
 
+## Novedades de la 0.5.3
+
+**Agregado**
+
+- Bienvenida con un mini tutorial de tres pasos la primera vez que abres Hito. Puedes empezar con datos de ejemplo u omitirla, y volver a verla en Preferencias → Acerca de y actualizaciones → Ver tutorial. Si ya usabas Hito no aparece.
+- Aviso del sistema cuando sale una versión nueva, una sola vez por versión. En Android, el sistema revisa cada 12 horas aunque Hito esté cerrado; tocar el aviso abre Acerca de y actualizaciones. En Windows avisa si Hito está abierto pero minimizado. Se desactiva con «Avisarme de nuevas versiones» y nunca descarga nada sin tu permiso.
+- Al enviar comentarios puedes escribir tu nombre (opcional) para que te agradezcamos en las Novedades de la versión que ayudaste a mejorar. Si lo dejas vacío, se envía de forma anónima.
+- Botón «Seleccionar varias» en Tareas, o «Seleccionar» desde el menú ⋯ de cualquier tarea: toca las tareas para elegirlas y aplica acciones en lote. Escape o «Cancelar» salen del modo.
+
+**Mejorado**
+
+- Tarjetas de tarea compactas: círculo, título, prioridad y fecha («Hoy», «Mañana» o «Venció…» en rojo). Los pasos, notas, estado, fecha, enfoque, edición y papelera aparecen al tocar ⋯. En el tablero, igual.
+- En el celular, la cabecera ocupa mucho menos: título y «Nueva tarea» en una línea, y perfil, nivel y meta en otra. La captura rápida y su botón quedan en una sola fila.
+- Barra lateral con el ícono de Hito, y «Tema» y «Concentrada» como botones con ícono lado a lado. «Etiquetas» ahora está en la vista Tareas.
+- Avisos menos invasivos: como mucho uno a la vez y en una sola línea discreta. La invitación a activar recordatorios solo aparece cuando ya tienes una tarea con fecha, y con × no vuelve a preguntar (se puede activar en Preferencias).
+- El aviso «Conviene guardar una copia» desaparece cuando el respaldo automático funciona. Solo verás un aviso discreto si está desactivado, falló o lleva más de una semana sin guardarse, con un botón que lleva a Datos y respaldo.
+- Colores de prioridad más fáciles de distinguir (verde, amarillo, naranja y rojo, con relleno más intenso según la urgencia) y con contraste de lectura de al menos 5:1 en los tres temas. El selector de estado es neutro, con un punto de color.
+- «Borrar todo» y «Cargar datos de ejemplo» (en Preferencias → Avanzado) piden escribir BORRAR o REEMPLAZAR para confirmar, y antes guardan un respaldo automático si está activo.
+
+**Corregido**
+
+- Textos con cantidades en singular y plural correctos: «1 día», «1 tarea», «1 punto para Impulso II», en lugar de «1 días».
+- Los comentarios enviados desde Android indicaban «Linux» como sistema; ahora indican la versión de Android.
+
+**Gracias**
+
+- A quien nos envió el primer comentario, de forma anónima, desde la 0.5.1: los avisos ahora son más discretos gracias a ti.
+
 ## Novedades de la 0.5.1
 
 **Mejorado**
 
 - Las actualizaciones se descargan desde el nuevo repositorio público «Hito-release». La app sigue aceptando la dirección anterior, con las mismas comprobaciones de seguridad.
 - Créditos con el nombre del creador, JeanSkull. En Windows, «Aplicaciones instaladas» muestra a JeanSkull como editor.
-
-## Novedades de la 0.5.0
-
-**Agregado**
-
-- Nuevo nombre: **Hito** (antes Panel de seguimiento), con ícono nuevo de una bandera sobre una cima en Windows, Android (incluido el ícono temático de Android 13+ y el de las notificaciones) y la versión web.
-- Tres temas completos: Medianoche (nuevo predeterminado), Brasa y Papel, con su propio fondo, tarjetas, texto y color de acento. Se eligen en Preferencias → Vista y ritmo o con «Cambiar tema».
-- Opción de fondo: Ondas, Liso o Puntos.
-- Enviar comentarios desde Preferencias → Acerca de y actualizaciones: elige si algo falló, una idea u otra cosa y escribe tu mensaje. Puedes incluir datos técnicos (versión, plataforma y pantalla); nunca se envían tus tareas ni proyectos. Sin conexión, el comentario se guarda y se envía solo al volver la red.
-
-**Mejorado**
-
-- Si nunca cambiaste el color de acento, cada tema usa el suyo; un acento personalizado se conserva.
-- La barra del sistema en Android toma el color del tema.
-- El tema verde anterior se retira: si lo usabas, ahora verás Medianoche. Puedes cambiarlo en Preferencias.
-- Tus datos sincronizados en la nube quedan mejor protegidos: nadie puede listar ni borrar los grupos de sincronización; solo se accede a cada uno con su clave, como siempre.
-- En Windows, al actualizar, Hito reemplaza la instalación «Panel de seguimiento» y conserva tus datos: no quedan dos apps instaladas.
-- Los respaldos automáticos nuevos se guardan en la carpeta «Hito» (Documentos\Hito\Respaldos en Windows, Descargas/Hito en Android). Los anteriores se quedan donde estaban.
-
-**Corregido**
-
-- La pantalla de carga de Android mostraba el logo genérico de la herramienta de desarrollo sobre fondo blanco; ahora muestra el ícono de Hito sobre el fondo del tema.
 
 Desde la app puedes ver el historial completo en **Preferencias → Acerca de y actualizaciones → Novedades**.
 
