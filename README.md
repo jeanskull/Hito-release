@@ -8,14 +8,14 @@
 Organiza tu día, sube de nivel y no pierdas el ritmo. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.5.3-ensayo/Hito_0.5.3_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.6.0-ensayo/Hito_0.6.0_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.5.3-ensayo/Hito_0.5.3_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.6.0-ensayo/Hito_0.6.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Hito-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 0.5.3 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 0.6.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/hoy-medianoche.jpg" width="820" alt="Pantalla Hoy de Hito con el tema Medianoche">
@@ -69,6 +69,29 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 ¿Algo falló o tienes una idea? En **Preferencias → Acerca de y actualizaciones → Enviar comentarios** puedes escribirnos directo desde la app. Solo se envía tu mensaje y, si lo permites, la versión, la plataforma y el tamaño de pantalla; **nunca tus tareas ni proyectos**.
 
+## Novedades de la 0.6.0
+
+**Agregado**
+
+- Inicia sesión con tu cuenta de Google en Preferencias → Cuenta y tus tareas, proyectos y progreso quedan iguales en tu computadora y tu celular. Es la misma cuenta que usa Cuentas Claras.
+- La primera vez eliges qué hacer con tus datos: subir lo de este equipo, bajar lo de la nube (antes se guarda un respaldo automático) o juntar los dos. Subir y bajar piden confirmar con un segundo toque.
+- Los cambios se guardan primero en el equipo y se envían solos. Sin conexión todo sigue funcionando y se pone al día al volver la red. Si editas cosas distintas de la misma tarea en dos equipos, se conservan las dos.
+- En Android eliges tu cuenta con el selector del sistema; en Windows se abre tu navegador para iniciar sesión.
+- Preferencias → Cuenta, la primera categoría, muestra el estado de la sincronización, «Sincronizar ahora» y «Cerrar sesión». Cerrar sesión deja de sincronizar sin borrar nada.
+- Ajuste de animaciones en Preferencias → Apariencia: Según el sistema, Completas, Reducidas (solo desvanecer) o Desactivadas, que quita también las celebraciones.
+
+**Mejorado**
+
+- Preferencias ordenadas con las mismas categorías que Cuentas Claras: Cuenta, Apariencia, Avisos y metas, Sonido, Datos y respaldo, Acerca de y Avanzado. En la computadora las categorías están en una lista a la izquierda; en el celular la lista ocupa la pantalla y cada categoría se abre en su propia pantalla («Atrás» regresa a la lista).
+- Lo que no era un ajuste salió de Preferencias: la papelera ahora está en Tareas (botón «Papelera») y el resumen del día en Hoy (botón «Cierre del día», junto a tu meta).
+- La meta diaria pasó de Apariencia a «Avisos y metas», junto a la hora del cierre del día y los días sin actividad de un proyecto. Los créditos están en Acerca de.
+- Los comentarios que envías llegan a la nueva bandeja compartida con Cuentas Claras, incluidos los que estaban en espera de enviarse.
+- La bienvenida explica que puedes iniciar sesión para usar Hito en tus dos equipos.
+
+**Corregido**
+
+- En Windows los comentarios no podían enviarse porque la app bloqueaba la conexión con la nube.
+
 ## Novedades de la 0.5.3
 
 **Agregado**
@@ -96,13 +119,6 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 **Gracias**
 
 - A quien nos envió el primer comentario, de forma anónima, desde la 0.5.1: los avisos ahora son más discretos gracias a ti.
-
-## Novedades de la 0.5.1
-
-**Mejorado**
-
-- Las actualizaciones se descargan desde el nuevo repositorio público «Hito-release». La app sigue aceptando la dirección anterior, con las mismas comprobaciones de seguridad.
-- Créditos con el nombre del creador, JeanSkull. En Windows, «Aplicaciones instaladas» muestra a JeanSkull como editor.
 
 Desde la app puedes ver el historial completo en **Preferencias → Acerca de y actualizaciones → Novedades**.
 
