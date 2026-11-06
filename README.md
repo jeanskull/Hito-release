@@ -8,14 +8,14 @@
 Organiza tu día, sube de nivel y no pierdas el ritmo. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.7.1-ensayo/Hito_0.7.1_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.8.0-ensayo/Hito_0.8.0_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.7.1-ensayo/Hito_0.7.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.8.0-ensayo/Hito_0.8.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Hito-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 0.7.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 0.8.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/hoy-medianoche.jpg" width="820" alt="Pantalla Hoy de Hito con el tema Medianoche">
@@ -69,6 +69,20 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 ¿Algo falló o tienes una idea? En **Preferencias → Acerca de y actualizaciones → Enviar comentarios** puedes escribirnos directo desde la app. Solo se envía tu mensaje y, si lo permites, la versión, la plataforma y el tamaño de pantalla; **nunca tus tareas ni proyectos**.
 
+## Novedades de la 0.8.0
+
+**Agregado**
+
+- Conexión con Cuentas Claras (Preferencias → Cuenta): tus pagos de deudas y gastos fijos de las próximas 3 semanas aparecen como tareas con la etiqueta «Pagos», con su monto y su fecha límite. Si el pago cambia de fecha o de monto en Cuentas Claras, la tarea se actualiza; si ya no está pendiente, se va a la papelera (las que ya completaste se quedan). Se puede apagar cuando quieras.
+- Al completar una tarea de pago, Cuentas Claras te pregunta si registra el pago.
+- Tarjeta «Metas de dinero» en Hoy con el avance de tus metas de Cuentas Claras.
+- En Android, botón para abrir Cuentas Claras desde Hoy y desde Preferencias.
+
+**Corregido**
+
+- La app no avisaba sola de una actualización nueva: solo aparecía al tocar «Buscar». Ahora revisa al abrirse y cada 30 minutos.
+- Se quitó un texto viejo que decía que la sincronización llegaría en una próxima versión.
+
 ## Novedades de la 0.7.1
 
 **Agregado**
@@ -81,21 +95,6 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 - Hoy: las vencidas van aparte y solo se ven 3; «Ver las N» muestra todas y «Pasar todas a hoy» las reprograma de un toque.
 - En el celular la casilla para completar una tarea es más grande y fácil de tocar, igual que los días del calendario.
-
-## Novedades de la 0.7.0
-
-**Mejorado**
-
-- Nuevo diseño de la familia JeanSkull Apps: mismas letras y colores que Cuentas Claras, para que pasar de una app a otra se sienta natural.
-- En el celular hay una barra abajo con Hoy, Tareas, Nueva tarea, Proyectos y Más, como en Cuentas Claras. «Más» abre Calendario, Estadísticas, Perfil, Preferencias y Tema.
-- Celular en horizontal: la barra pasa a ser una barra delgada a la izquierda, los filtros empiezan cerrados y las tareas se ven sin desplazarte.
-- Si se juntan muchos avisos (por ejemplo al importar un respaldo), solo se muestran los 2 más recientes en vez de una fila larga.
-
-**Corregido**
-
-- En pantallas bajas (celular en horizontal o ventanas chicas) los botones de Perfil y Preferencias tapaban «Estadísticas» en el menú.
-- En celulares angostos la barra de nivel se encimaba con la meta del día; ahora la meta baja de línea.
-- Los avisos que aparecen abajo ya no tapan ni bloquean la barra de navegación.
 
 Desde la app puedes ver el historial completo en **Preferencias → Acerca de y actualizaciones → Novedades**.
 
