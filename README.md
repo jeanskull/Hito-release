@@ -8,37 +8,37 @@
 Organiza tu día, sube de nivel y no pierdas el ritmo. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.10.0-ensayo/Hito_0.10.0_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.0.0-ensayo/Hito_1.0.0_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v0.10.0-ensayo/Hito_0.10.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.0.0-ensayo/Hito_1.0.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Hito-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 0.10.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.0.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
-  <img src="imagenes/hoy-medianoche.jpg" width="820" alt="Pantalla Hoy de Hito con el tema Medianoche">
+  <img src="imagenes/hoy.jpg" width="820" alt="Pantalla Hoy de Hito: meta del día, racha, impulso y tu siguiente paso">
 </p>
 
 ## Qué puedes hacer
 
 - **Tareas y proyectos** con prioridad, fecha, pasos, etiquetas de color, repetición y tiempo estimado.
 - **Hoy, calendario y tablero** para ver qué toca, qué está vencido y en qué concentrarte.
-- **Progreso que se nota:** cada tarea suma puntos de experiencia, subes de nivel, desbloqueas logros y acumulas *impulso* para multiplicar tus puntos.
+- **Progreso que se nota:** cada tarea suma puntos de experiencia, subes de nivel, desbloqueas logros y acumulas *impulso* para multiplicar tus puntos. Cada rango nuevo se revela con una celebración, y el siguiente siempre es un misterio.
 - **Estadísticas** de tu semana, tus proyectos y tu tiempo.
 - **Temporizador de enfoque** y recordatorios de lo que vence.
-- **A tu gusto:** temas Medianoche, Brasa y Papel, fondos y música ambiental original.
+- **A tu gusto:** tema oscuro, claro o según el sistema, vista concentrada para ver más tareas con menos adornos y música ambiental original.
 - **Funciona sin conexión.** Tus datos se guardan en tu dispositivo y Hito hace un respaldo automático cada semana.
 
 <p align="center">
-  <img src="imagenes/estadisticas-brasa.jpg" width="49%" alt="Estadísticas con el tema Brasa">
-  <img src="imagenes/proyectos-brasa.jpg" width="49%" alt="Proyectos con el tema Brasa">
+  <img src="imagenes/estadisticas.jpg" width="49%" alt="Estadísticas de Hito con gráficas animadas">
+  <img src="imagenes/proyectos.jpg" width="49%" alt="Proyectos de Hito con el tema claro">
 </p>
 <p align="center">
-  <img src="imagenes/movil-papel.jpg" width="240" alt="Hito en el celular con el tema Papel">
+  <img src="imagenes/movil-hoy.jpg" width="240" alt="Hito en el celular con el tema oscuro">
   &nbsp;&nbsp;
-  <img src="imagenes/movil-calendario.jpg" width="240" alt="Calendario en el celular con el tema Medianoche">
+  <img src="imagenes/movil-calendario.jpg" width="240" alt="Calendario en el celular con el tema claro">
 </p>
 
 ## Instalar en Android
@@ -69,6 +69,33 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 ¿Algo falló o tienes una idea? En **Preferencias → Acerca de y actualizaciones → Enviar comentarios** puedes escribirnos directo desde la app. Solo se envía tu mensaje y, si lo permites, la versión, la plataforma y el tamaño de pantalla; **nunca tus tareas ni proyectos**.
 
+## Novedades de la 1.0.0
+
+**Agregado**
+
+- Hito 1.0 «Gemelas»: diseño nuevo, gemelo de Cuentas Claras, con un solo color lila y letra más clara en todas las secciones.
+- Hoy: tarjeta con la meta del día, racha e impulso juntos, y «Tu siguiente paso» que te dice qué hacer (pasar las vencidas a hoy o crear la primera tarea del día).
+- Menú lateral con íconos en la computadora; encabezado con el título de la sección, un resumen y tu avatar con tu nivel.
+- Preferencias con íconos y descripción en cada apartado; en la computadora, categorías a la izquierda.
+- Tema oscuro, claro o según el sistema.
+- Rangos después de LTS: Kernel, Mainframe, Root, Cluster, Datacenter, Nube, Supercómputo, Red Neuronal, Orbital y Cuántico, cada uno con su insignia y sus efectos. Después del nivel 100 llega el Prestigio, con marcos nuevos.
+- Cada rango nuevo se revela con una ceremonia a pantalla completa: tu camino hasta ahí, tus números y el marco que ganaste. El siguiente rango siempre es un misterio («???») hasta que lo alcanzas.
+- Galería de rangos en tu perfil: toca uno para volver a ver su revelación. Los logros de los rangos altos son secretos.
+- Al terminar los cinco pasos de un rango, un aviso: lo que sigue es un misterio.
+- Aviso de versión nueva con «Instalar», barra de descarga, «Listo para instalar» y «Reintentar» si algo falla.
+- «Lo nuevo»: al abrir una versión nueva ves sus cambios con una portada; en el historial, cada cambio lleva su etiqueta Nuevo, Mejorado o Corregido.
+
+**Mejorado**
+
+- Gráficas animadas: las barras crecen, los números cuentan hasta su valor y las barras de avance se llenan. Respetan Preferencias → Animaciones.
+- Estadísticas con pestañas tipo control segmentado y logros con su marca de conseguido o «?».
+- Proyectos con un punto de color y su barra que se llena; Calendario más limpio, con el día de hoy resaltado.
+- Vista concentrada más compacta: oculta nivel, impulso, reto y «Tu siguiente paso».
+- Tu perfil, igual al de Cuentas Claras.
+- Nueva tarea: «Más opciones» y «Etiquetas» con el mismo estilo y una flecha.
+- Los temas Medianoche, Brasa y Papel dan paso al diseño gemelo; tus tareas y ajustes no cambian.
+- A partir del nivel 50, cada nivel pide como máximo 2,550 EXP, para que los rangos altos sigan siendo alcanzables. Los niveles anteriores no cambian.
+
 ## Novedades de la 0.10.0
 
 **Agregado**
@@ -94,20 +121,6 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 - El menú «Más» del celular era transparente, quedaba bajo la barra de estado y escondía Preferencias y Tema.
 - Al importar un respaldo salían dos confirmaciones y un camino viejo reemplazaba todos los datos; ahora solo se juntan con respaldo previo.
-
-## Novedades de la 0.9.0
-
-**Agregado**
-
-- Nivel compartido de las JeanSkull Apps: tu nivel, EXP y rango ahora suman lo que ganas en Hito y en Cuentas Claras. Las reglas de EXP de Hito no cambian. Con sesión iniciada se juntan solos.
-- Insignias de rango nuevas (Alpha, Beta, Release Candidate, Estable, Producción, Optimizado y LTS), también en el mini perfil.
-- Pantalla «Subiste de nivel» con sonido (si tienes el sonido activado), más grande cuando llegas a un rango nuevo. En modo discreto solo aparece un aviso.
-- Perfil: tu nivel con la insignia, el siguiente rango y cuánto te falta, tu EXP por app y marcos para tu foto que se desbloquean con cada rango.
-- Logros de la familia de apps en la pestaña Logros del perfil.
-
-**Mejorado**
-
-- Estadísticas muestra la EXP total de tus apps y la que ganaste en Hito.
 
 Desde la app puedes ver el historial completo en **Preferencias → Acerca de y actualizaciones → Novedades**.
 
