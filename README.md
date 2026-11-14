@@ -8,14 +8,14 @@
 Organiza tu día, sube de nivel y no pierdas el ritmo. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.0.0-ensayo/Hito_1.0.0_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.0.1-ensayo/Hito_1.0.1_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.0.0-ensayo/Hito_1.0.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.0.1-ensayo/Hito_1.0.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Hito-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.0.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.0.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/hoy.jpg" width="820" alt="Pantalla Hoy de Hito: meta del día, racha, impulso y tu siguiente paso">
@@ -69,6 +69,13 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 ¿Algo falló o tienes una idea? En **Preferencias → Acerca de y actualizaciones → Enviar comentarios** puedes escribirnos directo desde la app. Solo se envía tu mensaje y, si lo permites, la versión, la plataforma y el tamaño de pantalla; **nunca tus tareas ni proyectos**.
 
+## Novedades de la 1.0.1
+
+**Agregado**
+
+- Reliquia, la nueva app de la familia (tus logros de juegos convertidos en cartas), ya suma EXP a tu nivel. En tu perfil, «Tu EXP» muestra cuánto viene de Hito, de Cuentas Claras y de Reliquia.
+- Logro nuevo de la familia: «La familia completa», por ganar EXP en las tres apps.
+
 ## Novedades de la 1.0.0
 
 **Agregado**
@@ -95,32 +102,6 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 - Nueva tarea: «Más opciones» y «Etiquetas» con el mismo estilo y una flecha.
 - Los temas Medianoche, Brasa y Papel dan paso al diseño gemelo; tus tareas y ajustes no cambian.
 - A partir del nivel 50, cada nivel pide como máximo 2,550 EXP, para que los rangos altos sigan siendo alcanzables. Los niveles anteriores no cambian.
-
-## Novedades de la 0.10.0
-
-**Agregado**
-
-- Familia JeanSkull: hojas, menús, selector, avisos y confirmaciones con el mismo diseño que Cuentas Claras.
-- Nueva hoja «Más» en el celular: tu perfil, Calendario, Estadísticas, Papelera, Preferencias, Tema, vista concentrada, sonidos y música.
-- Selector propio para proyectos, áreas, prioridad y demás listas, en lugar de la lista del sistema.
-- Insignias vivas: brillo, anillo que gira, aura y destellos según tu rango. Al subir de nivel hay ráfaga de partículas, ondas y la barra se llena.
-- Tu nombre y tu rol se comparten con Cuentas Claras.
-
-**Mejorado**
-
-- Nueva tarea: lo esencial a la vista y Área, Estado, Tiempo estimado y Repetición en «Más opciones»; «Guardar tarea» siempre visible.
-- Avisos de uno en uno; los avances de varios proyectos se juntan en un solo aviso.
-- Confirmaciones (papelera, eliminar, importar, cronómetro) con la hoja común en lugar de la ventana del navegador.
-- Celular en horizontal: el encabezado ocupa menos y el calendario muestra puntos en lugar de tareas cortadas.
-- Casilla de completar y «⋯» de cada tarea más fáciles de tocar; letra mínima de 12 px.
-- El texto de los botones principales elige el color que mejor se lee sobre tu color de acento.
-- La música ambiental empieza apagada en instalaciones nuevas (si ya la tenías encendida, sigue igual).
-- Windows: la ventana abre oscura desde el inicio (sin pantalla blanca), con barra de título y de desplazamiento oscuras.
-
-**Corregido**
-
-- El menú «Más» del celular era transparente, quedaba bajo la barra de estado y escondía Preferencias y Tema.
-- Al importar un respaldo salían dos confirmaciones y un camino viejo reemplazaba todos los datos; ahora solo se juntan con respaldo previo.
 
 Desde la app puedes ver el historial completo en **Preferencias → Acerca de y actualizaciones → Novedades**.
 
