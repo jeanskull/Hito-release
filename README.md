@@ -8,14 +8,14 @@
 Organiza tu día, sube de nivel y no pierdas el ritmo. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.0.1-ensayo/Hito_1.0.1_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.1.0-ensayo/Hito_1.1.0_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.0.1-ensayo/Hito_1.0.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.1.0-ensayo/Hito_1.1.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Hito-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.0.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.1.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/hoy.jpg" width="820" alt="Pantalla Hoy de Hito: meta del día, racha, impulso y tu siguiente paso">
@@ -69,39 +69,22 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 ¿Algo falló o tienes una idea? En **Preferencias → Acerca de y actualizaciones → Enviar comentarios** puedes escribirnos directo desde la app. Solo se envía tu mensaje y, si lo permites, la versión, la plataforma y el tamaño de pantalla; **nunca tus tareas ni proyectos**.
 
+## Novedades de la 1.1.0
+
+**Mejorado**
+
+- Estadísticas → Actividad: los últimos 30 días ahora se ven como una curva suave con área, en lugar de barras. Al pasar el cursor sobre un día ves cuántas tareas completaste. La curva nunca dibuja subidas ni bajadas que no pasaron.
+
+**Corregido**
+
+- Un rango nuevo ya no se adelanta: si subes de rango (por ejemplo, de Alpha a Beta), el avatar, el número de nivel, la barra y tu perfil se quedan en el último nivel de tu rango anterior, con la barra llena, hasta que ves la celebración. Funciona igual en Hito, Cuentas Claras y Reliquia.
+
 ## Novedades de la 1.0.1
 
 **Agregado**
 
 - Reliquia, la nueva app de la familia (tus logros de juegos convertidos en cartas), ya suma EXP a tu nivel. En tu perfil, «Tu EXP» muestra cuánto viene de Hito, de Cuentas Claras y de Reliquia.
 - Logro nuevo de la familia: «La familia completa», por ganar EXP en las tres apps.
-
-## Novedades de la 1.0.0
-
-**Agregado**
-
-- Hito 1.0 «Gemelas»: diseño nuevo, gemelo de Cuentas Claras, con un solo color lila y letra más clara en todas las secciones.
-- Hoy: tarjeta con la meta del día, racha e impulso juntos, y «Tu siguiente paso» que te dice qué hacer (pasar las vencidas a hoy o crear la primera tarea del día).
-- Menú lateral con íconos en la computadora; encabezado con el título de la sección, un resumen y tu avatar con tu nivel.
-- Preferencias con íconos y descripción en cada apartado; en la computadora, categorías a la izquierda.
-- Tema oscuro, claro o según el sistema.
-- Rangos después de LTS: Kernel, Mainframe, Root, Cluster, Datacenter, Nube, Supercómputo, Red Neuronal, Orbital y Cuántico, cada uno con su insignia y sus efectos. Después del nivel 100 llega el Prestigio, con marcos nuevos.
-- Cada rango nuevo se revela con una ceremonia a pantalla completa: tu camino hasta ahí, tus números y el marco que ganaste. El siguiente rango siempre es un misterio («???») hasta que lo alcanzas.
-- Galería de rangos en tu perfil: toca uno para volver a ver su revelación. Los logros de los rangos altos son secretos.
-- Al terminar los cinco pasos de un rango, un aviso: lo que sigue es un misterio.
-- Aviso de versión nueva con «Instalar», barra de descarga, «Listo para instalar» y «Reintentar» si algo falla.
-- «Lo nuevo»: al abrir una versión nueva ves sus cambios con una portada; en el historial, cada cambio lleva su etiqueta Nuevo, Mejorado o Corregido.
-
-**Mejorado**
-
-- Gráficas animadas: las barras crecen, los números cuentan hasta su valor y las barras de avance se llenan. Respetan Preferencias → Animaciones.
-- Estadísticas con pestañas tipo control segmentado y logros con su marca de conseguido o «?».
-- Proyectos con un punto de color y su barra que se llena; Calendario más limpio, con el día de hoy resaltado.
-- Vista concentrada más compacta: oculta nivel, impulso, reto y «Tu siguiente paso».
-- Tu perfil, igual al de Cuentas Claras.
-- Nueva tarea: «Más opciones» y «Etiquetas» con el mismo estilo y una flecha.
-- Los temas Medianoche, Brasa y Papel dan paso al diseño gemelo; tus tareas y ajustes no cambian.
-- A partir del nivel 50, cada nivel pide como máximo 2,550 EXP, para que los rangos altos sigan siendo alcanzables. Los niveles anteriores no cambian.
 
 Desde la app puedes ver el historial completo en **Preferencias → Acerca de y actualizaciones → Novedades**.
 
