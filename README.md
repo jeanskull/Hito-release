@@ -8,14 +8,14 @@
 Organiza tu día, sube de nivel y no pierdas el ritmo. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.1.1-ensayo/Hito_1.1.1_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.2.0-ensayo/Hito_1.2.0_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.1.1-ensayo/Hito_1.1.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.2.0-ensayo/Hito_1.2.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Hito-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.1.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.2.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/hoy.jpg" width="820" alt="Pantalla Hoy de Hito: meta del día, racha, impulso y tu siguiente paso">
@@ -69,6 +69,19 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 ¿Algo falló o tienes una idea? En **Preferencias → Acerca de y actualizaciones → Enviar comentarios** puedes escribirnos directo desde la app. Solo se envía tu mensaje y, si lo permites, la versión, la plataforma y el tamaño de pantalla; **nunca tus tareas ni proyectos**.
 
+## Novedades de la 1.2.0
+
+**Mejorado**
+
+- Preferencias se ven igual que en Cuentas Claras y Reliquia: en el celular ocupan toda la pantalla, con botón para volver, grupos con título (Tu cuenta, La app, Tus datos y Hito) y una fila con icono para cada apartado. Ya no es una ventana flotante con un botón «Cerrar» abajo.
+- Cada apartado de Preferencias se acomoda en tarjetas con su título, los controles a la derecha y la ayuda en gris. Los interruptores son los mismos de las demás apps, y el tema se elige con tres botones: Oscuro, Claro y Sistema.
+- Novedades tiene su propia fila en Preferencias (antes estaba escondida en «Acerca de»), con la etiqueta «Nuevo» mientras no la abras. El historial va por mes y año: el mes actual abierto y los anteriores plegados con cuántas versiones traen. Si un mes trae muchas versiones, se separa por semanas, y cada versión muestra un resumen («2 nuevos · 1 mejora») que se abre al tocarla.
+- Al actualizar, «Lo nuevo» sale como hoja desde abajo, igual que en Reliquia y Cuentas Claras, con la estrella, tu versión y el botón «Entendido».
+
+**Corregido**
+
+- Preferencias → Acerca de: el título decía «Acerca de y actualizaciones» y el texto quedaba pegado al borde de su recuadro.
+
 ## Novedades de la 1.1.1
 
 **Corregido**
@@ -76,16 +89,6 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 - Celular, hoja «Más»: el tema ahora se elige ahí mismo entre Oscuro, Claro y Sistema, y la hoja se queda abierta para que veas el cambio. Antes cada toque pasaba al siguiente tema y cerraba la hoja, así que a veces había que abrirla dos veces.
 - Celular: el aviso «Hito está lista · Instalar» ya no sale como un cuadro enorme; ahora es una tarjeta compacta con sus botones.
 - Animación de rango nuevo (celular y PC): el nombre ya no se parte entre letras ni se sale de la pantalla (si no cabe, la letra se achica), y la insignia queda centrada en su lugar en vez de bajarse y encimarse con el texto.
-
-## Novedades de la 1.1.0
-
-**Mejorado**
-
-- Estadísticas → Actividad: los últimos 30 días ahora se ven como una curva suave con área, en lugar de barras. Al pasar el cursor sobre un día ves cuántas tareas completaste. La curva nunca dibuja subidas ni bajadas que no pasaron.
-
-**Corregido**
-
-- Un rango nuevo ya no se adelanta: si subes de rango (por ejemplo, de Alpha a Beta), el avatar, el número de nivel, la barra y tu perfil se quedan en el último nivel de tu rango anterior, con la barra llena, hasta que ves la celebración. Funciona igual en Hito, Cuentas Claras y Reliquia.
 
 Desde la app puedes ver el historial completo en **Preferencias → Acerca de y actualizaciones → Novedades**.
 
