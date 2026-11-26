@@ -8,14 +8,14 @@
 Organiza tu día, sube de nivel y no pierdas el ritmo. Para Android y Windows.</p>
 
 <p align="center">
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.2.0-ensayo/Hito_1.2.0_android.apk"><strong>Descargar para Android</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.2.1-ensayo/Hito_1.2.1_android.apk"><strong>Descargar para Android</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.2.0-ensayo/Hito_1.2.0_x64-setup.exe"><strong>Descargar para Windows</strong></a>
+  <a href="https://github.com/jeanskull/Hito-release/releases/download/v1.2.1-ensayo/Hito_1.2.1_x64-setup.exe"><strong>Descargar para Windows</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/jeanskull/Hito-release/releases">Todas las versiones</a>
 </p>
 
-<p align="center"><sub>Versión de prueba 1.2.0 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
+<p align="center"><sub>Versión de prueba 1.2.1 · Android 7 o superior · Windows 10 y 11 (64 bits)</sub></p>
 
 <p align="center">
   <img src="imagenes/hoy.jpg" width="820" alt="Pantalla Hoy de Hito: meta del día, racha, impulso y tu siguiente paso">
@@ -69,6 +69,13 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 
 ¿Algo falló o tienes una idea? En **Preferencias → Acerca de y actualizaciones → Enviar comentarios** puedes escribirnos directo desde la app. Solo se envía tu mensaje y, si lo permites, la versión, la plataforma y el tamaño de pantalla; **nunca tus tareas ni proyectos**.
 
+## Novedades de la 1.2.1
+
+**Corregido**
+
+- Sonido: los interruptores «Sonidos» y «Música ambiental» de la hoja «Más» salían apagados al abrir la app aunque la música y los sonidos se seguían oyendo. Ahora muestran lo que de verdad está activo desde el arranque: encendido suena, apagado queda en silencio.
+- Hoja «Más»: la música ya no sale encendida si los sonidos están apagados (en ese caso no suena), y al encenderla ahí también se encienden los sonidos.
+
 ## Novedades de la 1.2.0
 
 **Mejorado**
@@ -81,14 +88,6 @@ No tienes que volver a descargar nada: Hito te avisa dentro de la app cuando hay
 **Corregido**
 
 - Preferencias → Acerca de: el título decía «Acerca de y actualizaciones» y el texto quedaba pegado al borde de su recuadro.
-
-## Novedades de la 1.1.1
-
-**Corregido**
-
-- Celular, hoja «Más»: el tema ahora se elige ahí mismo entre Oscuro, Claro y Sistema, y la hoja se queda abierta para que veas el cambio. Antes cada toque pasaba al siguiente tema y cerraba la hoja, así que a veces había que abrirla dos veces.
-- Celular: el aviso «Hito está lista · Instalar» ya no sale como un cuadro enorme; ahora es una tarjeta compacta con sus botones.
-- Animación de rango nuevo (celular y PC): el nombre ya no se parte entre letras ni se sale de la pantalla (si no cabe, la letra se achica), y la insignia queda centrada en su lugar en vez de bajarse y encimarse con el texto.
 
 Desde la app puedes ver el historial completo en **Preferencias → Acerca de y actualizaciones → Novedades**.
 
